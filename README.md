@@ -1,1 +1,4 @@
-# Chess
+```
+npm install
+npm start
+```
